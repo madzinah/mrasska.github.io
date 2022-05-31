@@ -56,7 +56,7 @@ academia:
         end_date: '2018'
 ---
 
-I am a first year PhD Student in Economics at Université Sorbonne Paris Nord under the joint supervision of [François Moreau][1] (Université Sorbonne Paris Nord, [CEPN][2]) and [Thierry Pénard][3] (Université Rennes 1, [CREM][4]). My research works focuse on creator economy and social media entertainment. 
+I am a first year PhD Student in Economics at Université Sorbonne Paris Nord under the joint supervision of [François Moreau][1] (Université Sorbonne Paris Nord, [CEPN][2]) and [Thierry Pénard][3] (Université Rennes 1, [CREM][4]). My research work focuses on creator economy and social media entertainment. 
 I am also a member of the [young research community of LabEx ICCA][5].
 
 
